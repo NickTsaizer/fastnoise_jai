@@ -311,6 +311,6 @@ noise_gen_position_2d :: (noise: Noise,
     return result, min_max;
 }
 
-//TODO: test everyrthing and 
+//TODO: test everyrthing
 
 #import "Compiler";
