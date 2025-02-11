@@ -1,4 +1,4 @@
-# FastNoise2 jai bindings
+# [FastNoise2](https://github.com/Auburn/FastNoise2) jai bindings
 
 Usecase:
 
