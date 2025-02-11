@@ -2,7 +2,7 @@
 
 Usecase:
 
-1. make noise generator;
+1. make noise generator
 2. generate noise
 3. ???
 
